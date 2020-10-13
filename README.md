@@ -13,7 +13,7 @@
 -   Array indexes start with `[0]` referring to the first element in the array.
 
 
-### **Array Methods###
+### **Array Methods**
 -   `.Pop():`  Removes an item from the end of an array.                                                 
 -   `.Push():` Adds items to the end of an array.                                                 
 -   `.shift():` Removes an item from the beginning of an array.
